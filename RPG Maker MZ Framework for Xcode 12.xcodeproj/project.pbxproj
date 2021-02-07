@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A327DA5325CFBCAD00B3628D /* ViewControllerMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = A327DA5225CFBCAD00B3628D /* ViewControllerMain.swift */; };
 		A36ED01225CDD5B7000E5717 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A36ED01125CDD5B7000E5717 /* AppDelegate.swift */; };
 		A36ED01425CDD5B7000E5717 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A36ED01325CDD5B7000E5717 /* SceneDelegate.swift */; };
 		A36ED01625CDD5B7000E5717 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A36ED01525CDD5B7000E5717 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A327DA5225CFBCAD00B3628D /* ViewControllerMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMain.swift; sourceTree = "<group>"; };
 		A36ED00E25CDD5B7000E5717 /* RPG Maker MZ Framework for Xcode 12.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RPG Maker MZ Framework for Xcode 12.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A36ED01125CDD5B7000E5717 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A36ED01325CDD5B7000E5717 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				A36ED01325CDD5B7000E5717 /* SceneDelegate.swift */,
 				A36ED01525CDD5B7000E5717 /* ViewController.swift */,
 				A36ED01725CDD5B7000E5717 /* Main.storyboard */,
+				A327DA5225CFBCAD00B3628D /* ViewControllerMain.swift */,
 				A36ED01A25CDD5B8000E5717 /* Assets.xcassets */,
 				A36ED01C25CDD5B8000E5717 /* LaunchScreen.storyboard */,
 				A36ED01F25CDD5B8000E5717 /* Info.plist */,
@@ -144,6 +147,7 @@
 				A36ED01625CDD5B7000E5717 /* ViewController.swift in Sources */,
 				A36ED01225CDD5B7000E5717 /* AppDelegate.swift in Sources */,
 				A36ED01425CDD5B7000E5717 /* SceneDelegate.swift in Sources */,
+				A327DA5325CFBCAD00B3628D /* ViewControllerMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
