@@ -37,7 +37,7 @@ Search for the SceneManager.isGameActive function - this will be located around 
 
 Replace the code with the following in order skip the check on focus:
 
-_____________________________________________________________________________________
+
 
 SceneManager.isGameActive = function() {
     return true;
@@ -51,7 +51,8 @@ SceneManager.isGameActive = function() {
     }
 };
 
-_____________________________________________________________________________________
+
+
 
 METHOD 2:
 If you don’t feel like replacing the code in Method 1, you can also do the following:
