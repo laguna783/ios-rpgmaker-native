@@ -41,8 +41,6 @@ Replace the code with the following in order skip the check on focus:
 
 SceneManager.isGameActive = function() {
     return true;
-   
-    // [Note] We use "window.top" to support an iframe.
     try {
         return window.top.document.hasFocus();
     } catch (e) {
